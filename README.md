@@ -4,12 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to Run
 
-use the following commands:
+Use the following commands:
 
 ```bash
   yarn install
   yarn start
 ```
+
+It should look something like this
+
+
+![Project Running](https://github.com/guilhermerochas/pullstate-sample-project/blob/main/static/projeto.png)
 
 ## Available Scripts
 
